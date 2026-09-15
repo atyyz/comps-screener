@@ -6,6 +6,8 @@ any set of tickers using free Yahoo Finance data — no API key, no account.
 For each ticker it pulls five metrics, prints them as a table sorted cheapest-first
 by P/E, writes a CSV, and saves a bar chart comparing P/E across the peer set.
 
+![Bar chart comparing trailing P/E across AAPL, MSFT, GOOGL, AMZN and META](comps_chart.png)
+
 ## What you get
 
 Running the script produces three things:
